@@ -21,7 +21,7 @@ my %WriteMakefileArgs = (
   "NAME" => "WebService::TaobaoIP",
   "PREREQ_PM" => {},
   "TEST_REQUIRES" => {},
-  "VERSION" => "0.01",
+  "VERSION" => "0.02",
   "test" => {
     "TESTS" => ""
   }
